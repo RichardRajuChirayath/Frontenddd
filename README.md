@@ -1,6 +1,6 @@
 # 🌌 Next-Gen Intelligence Workspace
 
-A premium, high-fidelity dashboard workspace built with **Next.js 14**, **Framer Motion**, and **Tailwind CSS**. Designed with an atmospheric, ethereal aesthetic featuring glassmorphism and deep parallax animations.
+A premium, high-fidelity dashboard workspace built with **Next.js 14**, **Framer Motion**, and **Tailwind CSS**. 
 
 ---
 
