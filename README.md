@@ -4,15 +4,7 @@ A premium, high-fidelity dashboard workspace built with **Next.js 14**, **Framer
 
 ---
 
-## ✨ Core Experience
 
-*   **Atmospheric Parallax**: Dynamic background mesh that subtly shifts with mouse movement for a deep layered effect.
-*   **Aura Glow System**: Interactive pulsating glows for active/live states.
-*   **Scholarly Typography**: Curated font pairings (Serif, Sans, Mono) for a professional, research-oriented feel.
-*   **Glassmorphism UI**: High-blur backdrops and tactile card components with thick-border shadows.
-*   **Responsive Architecture**: Fully fluid layout optimized for multiple device viewports.
-
----
 
 ## 🚀 Quick Start
 
